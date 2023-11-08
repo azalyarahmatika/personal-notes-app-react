@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/personal-notes-app-react/static/css/main.60432a21.css",
+    "main.js": "/personal-notes-app-react/static/js/main.c1a47894.js",
+    "index.html": "/personal-notes-app-react/index.html",
+    "main.60432a21.css.map": "/personal-notes-app-react/static/css/main.60432a21.css.map",
+    "main.c1a47894.js.map": "/personal-notes-app-react/static/js/main.c1a47894.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.60432a21.css",
+    "static/js/main.c1a47894.js"
+  ]
+}
