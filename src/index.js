@@ -7,7 +7,7 @@ import "./styles/style.css";
 
 const root = createRoot(document.getElementById("root"));
 root.render(
-  <BrowserRouter> 
+  <BrowserRouter basename="/personal-notes-app-react"> 
     <AppWrapper />
   </BrowserRouter>
 );
